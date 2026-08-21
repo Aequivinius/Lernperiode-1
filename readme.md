@@ -4,7 +4,7 @@
 
 ## Grob-Planung
 
-Ich möchte in dieser aslgaösjlösdjgasfhgaösgöa
+Ich möchte in dieser Lernperiode ein lustiges Katzen-Quiz erstellen.
 
 ## 28.8.2026
 
