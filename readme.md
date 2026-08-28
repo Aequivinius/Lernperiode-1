@@ -12,7 +12,7 @@ Heute
 
 ## 6.9.2026
 
-- [ ] ich will, dass die Ausgabe bei einer zu kleinen Zahl mit rot hinterlegt dargestellt wird
+- [x] ich will, dass die Ausgabe bei einer zu kleinen Zahl mit rot hinterlegt dargestellt wird
 - [ ] 
 
 ✍️ Heute habe ich... (50-100 Wörter)
