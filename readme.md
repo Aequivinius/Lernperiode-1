@@ -8,13 +8,12 @@ Ich möchte in dieser Lernperiode ein lustiges Katzen-Quiz erstellen.
 
 ## 28.8.2026
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute 
 
 ## 6.9.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] ich will, dass die Ausgabe bei einer zu kleinen Zahl mit rot hinterlegt dargestellt wird
+- [ ] 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
