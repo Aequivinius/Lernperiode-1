@@ -4,13 +4,7 @@
 
 ## fertiges Projekt
 
-blalgbsaodlaslkdglasdf
-blalgbsaodlaslkdglasdf
-blalgbsaodlaslkdglasdf
-blalgbsaodlaslkdglasdf
-blalgbsaodlaslkdglasdf
-blalgbsaodlaslkdglasdfblalgbsaodlaslkdglasdf
-blalgbsaodlaslkdglasdf
+Mein Programm stellt dem Benutzer eine Reihe von lustigen Katzen-Fragen. Das Spezielle dabei ist, dass die Katzenfragen in einer Text-Datei gespeichert sind.
 
 ## Grob-Planung
 
