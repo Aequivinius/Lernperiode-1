@@ -2,6 +2,16 @@
 
 28.8 bis ?
 
+## fertiges Projekt
+
+blalgbsaodlaslkdglasdf
+blalgbsaodlaslkdglasdf
+blalgbsaodlaslkdglasdf
+blalgbsaodlaslkdglasdf
+blalgbsaodlaslkdglasdf
+blalgbsaodlaslkdglasdfblalgbsaodlaslkdglasdf
+blalgbsaodlaslkdglasdf
+
 ## Grob-Planung
 
 Ich möchte in dieser Lernperiode ein lustiges Katzen-Quiz erstellen.
